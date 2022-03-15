@@ -1,1 +1,1 @@
-web: gunicorn e_food.wsgi
+web: gunicorn sidfoodsystem.wsgi
