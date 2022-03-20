@@ -1,1 +1,1 @@
-web: gunicorn foodcort.wsgi
+web: gunicorn e_food.wsgi
