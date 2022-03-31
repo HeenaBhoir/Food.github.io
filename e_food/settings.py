@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "127.0.0.8000"
-    "sidfoodsystem.herokuapp.com"
+    "siddhiwebsite.herokuapp.com"
 ]
 
 
